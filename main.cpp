@@ -1,7 +1,7 @@
 #include <iostream>
 #include "header.h"
 
-int main() { // driver
+int main() {
 	char gameBoard[9] = { 0 };
 	bool circle = 1;
 	short row = 0, col = 0, numTurn = 0;
